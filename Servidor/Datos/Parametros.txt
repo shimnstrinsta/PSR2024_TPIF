@@ -1,0 +1,6 @@
+Tiempo actualización de datos,1
+Privilegio tiempo entre denuncias (min),7
+Privilegio cantidad máxima de suscripciones,2
+Configuración límite de Temperatura Crítica,46
+Configuración límite de Humedad Crítica,85
+Configuración de denuncias para generar alertas,3

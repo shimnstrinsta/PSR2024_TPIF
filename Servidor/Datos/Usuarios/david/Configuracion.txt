@@ -1,0 +1,4 @@
+Cantidad de denuncias para generar alerta,3
+Temperatura Crítica para generar alerta,1
+Humedad crítica para generar alerta,3
+Alertas,1

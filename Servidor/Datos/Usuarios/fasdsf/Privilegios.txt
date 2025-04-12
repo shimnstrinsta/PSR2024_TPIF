@@ -1,0 +1,3 @@
+Tiempo entre denuncias,7
+Suscripciones máximas,4
+Rol,3

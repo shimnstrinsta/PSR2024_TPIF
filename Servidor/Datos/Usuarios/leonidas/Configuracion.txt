@@ -1,0 +1,4 @@
+Cantidad de denuncias para generar alerta,3
+Temperatura Crítica para generar alerta,45
+Humedad crítica para generar alerta,80
+Alertas,1
